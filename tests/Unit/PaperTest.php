@@ -3,6 +3,7 @@
 declare(strict_types=1);
 
 use PHPUnit\Framework\TestCase;
+use App\Interfaces\PaperInterface;
 use App\Paper;
 
 class PaperTest extends TestCase
