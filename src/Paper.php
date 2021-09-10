@@ -2,7 +2,7 @@
 
 namespace App;
 
-use \App\Interfaces\PaperInterface;
+use App\Interfaces\PaperInterface;
 
 class Paper implements PaperInterface
 {
